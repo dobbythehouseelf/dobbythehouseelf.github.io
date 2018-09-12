@@ -11,4 +11,4 @@ I like Chicken Tikka Masala!
 Don't contact me
 ### Contact me
 
-[email@domain.com](edward.batchelor@challoners.org)
+[edward.batchelor@challoners.org](edward.batchelor@challoners.org)
